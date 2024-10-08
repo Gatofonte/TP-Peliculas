@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP2_Peliculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1fc188e0531382856e39a5c7399fc5915b302e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ef48dd23a1c3e8313076f706e212cf136b64bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP2_Peliculas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP2_Peliculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

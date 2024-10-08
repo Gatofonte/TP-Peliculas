@@ -9,6 +9,7 @@ namespace TP2_Peliculas
     internal class Clases
     {
         // comentario agregado paraver en git
+        // Donde veo este cambio ??
     }
 
     public class Peliculas_cargadas
