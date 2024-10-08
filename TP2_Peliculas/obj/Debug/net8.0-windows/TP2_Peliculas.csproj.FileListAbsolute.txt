@@ -1,0 +1,182 @@
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+E:\Tecnicatura UTN\Programacion 2\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.sourcelink.json
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.sourcelink.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+E:\Tecnicatura UTN\Programacion 2\Provisorio\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Nueva carpeta\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+C:\Users\sol18\Downloads\TP2 GC-20241007T130111Z-001\TP2 GC\TP2mod\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+E:\Descargas\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+E:\Descargas\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+E:\Descargas\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+E:\Descargas\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Descargas\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+E:\Descargas\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+E:\Tecnicatura UTN\Programacion 2\TP2final\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
