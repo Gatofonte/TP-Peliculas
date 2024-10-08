@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tecnicatura UTN\\Programacion 2\\TP2final\\TP2_Peliculas\\TP2_Peliculas.csproj": {}
+    "E:\\Tecnicatura UTN\\Programacion 2\\TP-Peliculas\\TP2_Peliculas\\TP2_Peliculas.csproj": {}
   },
   "projects": {
-    "E:\\Tecnicatura UTN\\Programacion 2\\TP2final\\TP2_Peliculas\\TP2_Peliculas.csproj": {
+    "E:\\Tecnicatura UTN\\Programacion 2\\TP-Peliculas\\TP2_Peliculas\\TP2_Peliculas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tecnicatura UTN\\Programacion 2\\TP2final\\TP2_Peliculas\\TP2_Peliculas.csproj",
+        "projectUniqueName": "E:\\Tecnicatura UTN\\Programacion 2\\TP-Peliculas\\TP2_Peliculas\\TP2_Peliculas.csproj",
         "projectName": "TP2_Peliculas",
-        "projectPath": "E:\\Tecnicatura UTN\\Programacion 2\\TP2final\\TP2_Peliculas\\TP2_Peliculas.csproj",
+        "projectPath": "E:\\Tecnicatura UTN\\Programacion 2\\TP-Peliculas\\TP2_Peliculas\\TP2_Peliculas.csproj",
         "packagesPath": "C:\\Users\\Lima\\.nuget\\packages\\",
-        "outputPath": "E:\\Tecnicatura UTN\\Programacion 2\\TP2final\\TP2_Peliculas\\obj\\",
+        "outputPath": "E:\\Tecnicatura UTN\\Programacion 2\\TP-Peliculas\\TP2_Peliculas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
